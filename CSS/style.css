@@ -486,9 +486,7 @@ body{
     background-color: #9d8189;
     
 }
-.sec5-content-right li:hover{
-    background-color: #4a3e36;
-}
+
 .sec5-content-right li:hover li{
     background-color: #4a3e36;
     transition: 0.5s;
